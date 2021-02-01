@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lubu12/async-api-queue.git"
+    "url": "git+https://github.com/CompAndSave/async-api-queue.git"
   },
   "keywords": [
     "mailchimp"
@@ -19,14 +19,14 @@
   "author": "Andrew Y",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lubu12/async-api-queue/issues"
+    "url": "https://github.com/CompAndSave/async-api-queue/issues"
   },
-  "homepage": "https://github.com/lubu12/async-api-queue#readme",
+  "homepage": "https://github.com/CompAndSave/async-api-queue#readme",
   "directories": {
     "lib": "lib"
   },
   "devDependencies": {
     "babel-eslint": "^10.1.0",
-    "eslint": "^7.14.0"
+    "eslint": "^7.19.0"
   }
 }
