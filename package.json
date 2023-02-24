@@ -25,10 +25,9 @@
     "lib": "lib"
   },
   "dependencies": {
-    "redis": "^3.0.2"
+    "redis": "^4.6.4"
   },
   "devDependencies": {
-    "babel-eslint": "^10.1.0",
-    "eslint": "^7.20.0"
+    "eslint": "^8.34.0"
   }
 }
