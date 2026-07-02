@@ -1,6 +1,6 @@
 {
   "name": "async-api-queue",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Queue to manage async api calls for serverless setting via Redis",
   "main": "index.js",
   "scripts": {
@@ -25,6 +25,6 @@
     "lib": "lib"
   },
   "dependencies": {
-    "redis": "^4.7.0"
+    "redis": "^6.1.0"
   }
 }
